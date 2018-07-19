@@ -1,5 +1,5 @@
 {
-  "name": "vue2-datepicker",
+  "name": "vuejs2-datepicker",
   "version": "2.0.0",
   "description": "A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations",
   "keywords": [
